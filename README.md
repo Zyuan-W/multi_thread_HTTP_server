@@ -1,9 +1,6 @@
-## Assignment 4 directory
+## Multi Thread HTTP server
 
 This project created a Multi-Threaded HTTP Server, that can process request and send response concurrency.
-
-## notes
-cited code from cited from cse130_resources/practica/asgn4-starter.
 
 ## Files
 ```
